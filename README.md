@@ -1,16 +1,18 @@
-### Hi there 👋
+# Goomy Wright
+## About me
+I'm 15 and I'm a Web & Software developer. Programming languages i know: Go, C, C++, Python
 
-<!--
-**goomy-wright/goomy-wright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you like my codes, feel free to follow me :D.
 
-Here are some ideas to get you started:
+# Discord
+Goomy#3426
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Stats</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=goomy-wright&show_icons=true&theme=radical">
+  <br>
+  <hr>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goomy-wright&langs_count=8&theme=radical"></p>
