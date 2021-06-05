@@ -10,9 +10,9 @@ Goomy#3426
 <h2>Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=goomy-wright&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=goomy-wright&show_icons=true&theme=tokyonight">
   <br>
   <hr>
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goomy-wright&langs_count=8&theme=radical"></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goomy-wright&langs_count=8&theme=tokyonight"></p>
